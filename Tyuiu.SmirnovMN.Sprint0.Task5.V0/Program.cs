@@ -17,6 +17,7 @@ namespace Tyuiu.SmirnovMN.Sprint0.Task5.V0
             Console.WriteLine("A / B = " + DataService.Division(6, 0));
 
             Console.ReadKey();
+
         }
     }
 }
